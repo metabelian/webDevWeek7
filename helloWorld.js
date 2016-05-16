@@ -5,4 +5,4 @@ http.createServer(function(req,res){
   res.end('Hello world!');
 }).listen(3001);
 
-console.log('Server started on localhost:3000; press Ctrl-C to terminate....');
+console.log('Server started on localhost:3001; press Ctrl-C to terminate....');
